@@ -1,0 +1,30 @@
+body{
+    font-family: 'roboto slab', sans-serif;
+    background-color: cyan;
+}
+
+.header_div{
+    background-color:aliceblue;
+    color:grey;
+}
+
+.header_div p{
+    font-style: oblique;
+    font-weight: 10px;
+    word-spacing: 2px;
+}
+
+.main_div button{
+    font-style: inherit;
+    width: 10px;
+    font-weight: 10px;
+    margin-top: 5px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    background-color: aquamarine;
+    width:100%;
+    position: fixed;
+    bottom: 0;
+}
